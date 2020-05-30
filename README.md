@@ -7,7 +7,6 @@ Aplikacja zostanie zbudowana w oparciu o następujące technologie:
 * SASS (CSS)
 * Javascript wraz z bibliotekami (np. jQuery, React)
 * C#
-* Golang
 
 ### Kalendarium
 #### 21.05
